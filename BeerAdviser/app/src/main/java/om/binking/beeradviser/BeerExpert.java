@@ -8,8 +8,8 @@ public class BeerExpert {
     List<String> getBrands(String color) {
         List<String> brands = new ArrayList<String>();
         if (color.equals("Deep")) {
-            brands.add("深蓝");
-            brands.add("深海");
+            brands.add("Deep Blue");
+            brands.add("Deep Sea");
         } else if (color.equals("Light")){
             brands.add("Light Speed");
             brands.add("Light Thunder");
