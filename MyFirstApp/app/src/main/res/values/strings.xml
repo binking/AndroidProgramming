@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="helloworld">Welcome to Singularity, BinKing !</string>
+</resources>
